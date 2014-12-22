@@ -3,11 +3,60 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{ page.title }}</title>
-        {% include piwik.html %}
+        <title>{{ page.title }} &ndash; Hwasoon Kim</title>
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/skeleton.css">
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:400,300,600">
+        <link rel="stylesheet" href="/css/style.css">
+        <style>
+            body {
+                background-color: #{{ page.background_color }};
+            }
+        </style>
     </head>
     <body>
-        <h1>{{ page.title }}</h1>
-        {{ content }}
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="six columns">
+                        <h1><a href="/">Hwasoon Kim</a></h1>
+                    </div>
+                    <nav class="six columns">
+                        <ul>
+                            <li>
+                                {% if page.active == "about" %}
+                                    <a href="/" class="active">About</a>
+                                {% else %}
+                                    <a href="/">About</a>
+                                {% endif %}
+                            </li>
+                            <li>
+                                {% if page.active == "work" %}
+                                    <a href="/work" class="active">Work</a>
+                                {% else %}
+                                    <a href="/work">Work</a>
+                                {% endif %}
+                            </li>
+                            <li><a href="https://blog.hwasoon.kim">Blog</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <article>
+            <div class="container">
+                <div class="row">
+                    <div class="seven columns">
+                        <p>
+                            {{ content }}
+                        </p>
+                    </div>
+                    <div class="five columns">
+                        <img id="profile-picture" class="u-max-full-width" src="/img/profile-picture.png">
+                    </div>
+                </div>
+            </div>
+        </article>
+        {% include piwik.html %}
     </body>
 </html>
