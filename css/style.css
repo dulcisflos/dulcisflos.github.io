@@ -51,6 +51,11 @@ article {
     text-align: justify;
 }
 
+article img {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
 #profile-picture {
     margin-top: 5px;
 }
