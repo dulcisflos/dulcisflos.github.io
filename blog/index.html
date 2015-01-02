@@ -1,0 +1,15 @@
+---
+layout: default
+title: Blog
+active: blog
+background_color: DCEDC8
+---
+
+{% for post in site.posts %}
+    <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+    {{ post.excerpt }}
+    <span class="post-date">{{ post.date | date: "%-d %B %Y" }}</span>
+    <hr>
+{% endfor %}

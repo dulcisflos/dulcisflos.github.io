@@ -8,6 +8,7 @@
         <link rel="stylesheet" href="/css/skeleton.css">
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:400,300,600">
         <link rel="stylesheet" href="/css/style.css">
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.hwasoon.kim/blog/feed.xml">
         <style>
             body {
                 background-color: #{{ page.background_color }};
@@ -37,7 +38,13 @@
                                     <a href="/work">Work</a>
                                 {% endif %}
                             </li>
-                            <li><a href="https://blog.hwasoon.kim">Blog</a></li>
+                            <li>
+                                {% if page.active == "blog" %}
+                                    <a href="/blog" class="active">Blog</a>
+                                {% else %}
+                                    <a href="/blog">Blog</a>
+                                {% endif %}
+                            </li>
                         </ul>
                     </nav>
                 </div>
@@ -45,16 +52,7 @@
         </header>
         <article>
             <div class="container">
-                <div class="row">
-                    <div class="seven columns">
-                        <p>
-                            {{ content }}
-                        </p>
-                    </div>
-                    <div class="five columns">
-                        <img id="profile-picture" class="u-max-full-width" src="/img/profile-picture.png">
-                    </div>
-                </div>
+                {{ content }}
             </div>
         </article>
         {% include piwik.html %}
