@@ -11,4 +11,4 @@ So, I tried [Aveda Institute](http://www.avedainstitutesbb.com/birmingham-servic
 
 My hair designer, Andrea was a bit nervous at the beginning but my hair turned out great. She spent almost two hours and used millions of hair pins for my updo, which implies that my hair was extremely secured. I counted them later and the total number of bobby pin and hair pin used is 74! Anyway, look at my beautiful hair, it looks so lovely.
 
-![]({{ site.url }}/assets/Hair.jpg)
+![](/assets/Hair.jpg)

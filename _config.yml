@@ -1,6 +1,6 @@
 name: Hwasoon Kim
 description: Best Moments of My Life
-url: http://www.hwasoon.kim/blog
+url: http://www.hwasoon.kim
 permalink: /blog/:title
 gems:
   - jekyll-sitemap

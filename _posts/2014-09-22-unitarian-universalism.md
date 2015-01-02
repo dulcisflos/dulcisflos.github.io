@@ -11,10 +11,10 @@ With Chris’ steady mission work, Alex went to The [Unitarian Universalist Chur
 
 There was a music service by their choir today. I’ve been a choir member at the Korean church in Reno for about a year and enjoyed to sing, even though I was not interested in God. Well, I didn’t put a lot of meaning on lyrics and just enjoyed melodies. After the service, we got a chance to talk to a choir member and she said that anybody can join regardless of membership of the church. Emily was also interested in it and we will join the choir practice from this week. So exciting! The conductor of the choir is actually playing an oboe in the Alabama Symphony Orchestra. Lovely!
 
-![]({{ site.url }}/assets/Choir.jpg)
+![](/assets/Choir.jpg)
 
 The new season of the [Alabama Symphony Orchestra](http://www.alabamasymphony.org/) started last week and we went to their performances last week and this week with our friends. It's really affordable with a student ID, only $10. I’m really happy to have friends to go to a classical concert here. When Joshua Bell came to Birmingham in 2010, I went to the concert alone; the seat next to me was empty. I should have done more Facebook back then!
 
-![]({{ site.url }}/assets/ASO.jpg)
+![](/assets/ASO.jpg)
 
 When I was younger, I thought that I should understand more about classical music that I like to listen to. Now I’ve changed my attitude to music, like I’d just enjoy the moment in a concert even though I don’t know much about conductors, composers, and pieces, and even though I am sometimes very sleepy in a concert. I just like to be there!

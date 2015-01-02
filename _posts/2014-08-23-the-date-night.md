@@ -11,4 +11,4 @@ Alex and I have been there three years ago, also during the restaurant week, and
 
 After three years, we decided to try the place again and it was nice, a bit too much food for us though. Now, Alex was so ready for those kind of fancy places because he has some good suits for our wedding. He looked so perfect with [his engagement watch](http://www.uniformwares.com/watches-and-timepieces/) that he finally chose after decades of searching and I got it for him.
 
-![]({{ site.url }}/assets/Uniformware-1.jpg)
+![](/assets/Uniformware-1.jpg)

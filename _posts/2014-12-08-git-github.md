@@ -13,7 +13,7 @@ This morning we had a quick Git (version control system) session led by my husba
 * git commit: to commit a file to a version
 * git diff: to see differences between current and old one
 * git log: to see all changes that I made
-	* git log --oneline: simpler log
+    * git log --oneline: simpler log
     * git log --patch: more specific log
     * git log --oneline graph: to see flows
 
