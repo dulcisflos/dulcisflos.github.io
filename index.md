@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: profile-picture
 title: About
 active: about
 background_color: B3E5FC
