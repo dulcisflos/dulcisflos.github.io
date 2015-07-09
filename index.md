@@ -6,7 +6,7 @@ background_color: B3E5FC
 ---
 
 My name is Hwasoon Kim and I am expecting to finish my Ph.D. in Biostatistics
-at the University of Alabama at Birmingham (UAB) in the spring of 2015. My main
+at the University of Alabama at Birmingham (UAB) in the summer of 2015. My main
 research interest is adaptive designs in non-inferiority clinical trials
 particularly with survival data and developing a web-based sample size
 calculator for non-inferiority studies. I am actively looking for a position to
