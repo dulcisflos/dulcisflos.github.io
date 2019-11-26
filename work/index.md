@@ -5,10 +5,10 @@ active: work
 background_color: FFE0B2
 ---
 ## Work projects
-- [TACT2] (https://clinicaltrials.gov/ct2/show/NCT02733185)
-- [PROACT Xa] (https://clinicaltrials.gov/ct2/show/NCT04142658)
-- [IGNITE] (https://gmkb.org/)
-- [HiLo] (https://clinicaltrials.gov/ct2/show/NCT04095039)
+- [TACT2](https://clinicaltrials.gov/ct2/show/NCT02733185)
+- [PROACT Xa](https://clinicaltrials.gov/ct2/show/NCT04142658)
+- [IGNITE](https://gmkb.org/)
+- [HiLo](https://clinicaltrials.gov/ct2/show/NCT04095039)
 
 
 ## Private projects
