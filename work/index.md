@@ -9,6 +9,9 @@ background_color: FFE0B2
 - [PROACT Xa](https://clinicaltrials.gov/ct2/show/NCT04142658)
 - [IGNITE](https://gmkb.org/)
 - [HiLo](https://clinicaltrials.gov/ct2/show/NCT04095039)
+- POET
+- Purdue OxyContin
+- SOARS-B
 
 
 ## Private projects
