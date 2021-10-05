@@ -5,7 +5,8 @@ active: work
 background_color: FFE0B2
 ---
 ## Work projects
-- CHANGE Afib
+- CHANGE Afib with AHA and Sanofi
+- [ADAPTABLE](https://clinicaltrials.gov/ct2/show/NCT02697916)
 - [ACTIV-1 IM](https://clinicaltrials.gov/ct2/show/NCT04593940)
 - [ABC Science Collaborative](https://abcsciencecollaborative.org/)
 - [TACT2](https://clinicaltrials.gov/ct2/show/NCT02733185)
